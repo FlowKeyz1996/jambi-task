@@ -28,7 +28,7 @@ header h1 {
   margin-left: 15px;
   margin: 0;
   padding-top: 25px;
-  transform: rotate(2deg);
+  
 }
 
 /*  task list */
@@ -92,7 +92,7 @@ form {
   max-width: 400px;
 }
 form button {
-  background: #ffd859;
+  background: #5373d1;
   border-radius: 6px;
   border: 0;
   cursor: pointer;
