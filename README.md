@@ -1,6 +1,7 @@
-# Pinia Tasks Application
+# Jambi Tasks Application Leveraging Pinia as state tool
 
-This is a Vue 3 application built with Vite and Pinia for state management. The app allows users to manage tasks, with features like adding, editing, and completing tasks.
+This is a Vue 3 application built with Vite and Pinia for state management. The app allows users to manage tasks, with features like adding, editing, delete and completing tasks.
+
 
 ## Features
 
