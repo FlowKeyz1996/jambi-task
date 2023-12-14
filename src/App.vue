@@ -35,7 +35,7 @@
       </div>
     </div>
 
-    <button @click="taskStore.$reset">Reset Store</button>
+    <button class="reset-btn" @click="taskStore.$reset">Reset Store</button>
   </main>
 </template>
 
