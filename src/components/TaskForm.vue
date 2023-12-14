@@ -2,7 +2,7 @@
     <form @submit.prevent="handleSubmit">
         <input 
             type="text"
-            placeholder="I need to..."
+            placeholder="Hi, Jambi! you need to..."
             v-model="newTask"
         >
         <button>Add</button>
