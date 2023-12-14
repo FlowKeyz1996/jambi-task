@@ -100,6 +100,16 @@ form button {
   font-size: 1em;
   padding: 10px;
 }
+.reset-btn{
+  background: #fff;
+  border-radius: 4px;
+  border: 2px solid #555;
+  cursor: pointer;
+  display: inline-block;
+  font-size: 1em;
+  margin-left: 10px;
+  padding: 4px 8px;
+}
 form input {
   border-radius: 6px;
   border: 0;
